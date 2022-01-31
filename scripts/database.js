@@ -1,3 +1,5 @@
+// business is an array of objects
+
 const businesses = [
     {
       purchasingAgent: {
